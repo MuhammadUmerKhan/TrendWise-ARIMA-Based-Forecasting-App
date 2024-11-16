@@ -354,7 +354,7 @@ with tab1:
         <div class="content">
             This project focuses on developing an <span class="highlight">Intelligent Stock Price Prediction System</span> using time series techniques. Here's a breakdown of the project:
             <ul>
-                <li>📊 <span class="highlight">Data Collection</span>: Gathered historical stock data and news articles.</li>
+                <li>📊 <span class="highlight">Data Collection</span>: Gathered <a href="https://github.com/MuhammadUmerKhan/Yahoo-Stock/blob/main/Data/Yahoo%20Stock%20Data%20(correct%20format).csv" target="_blank" style="color: #2980B9;"><span class="highlight">historical stock.</span></a></li>
                 <li>🔍 <span class="highlight">Feature Engineering</span>: Extracted key features like Date, High, Low, Open, Close, Volume, etc.</li>
                 <li>📈 <span class="highlight">Model Development</span>: Built ARIMA models and used hypothesis testing like ADF.</li>
                 <li>🔬 <span class="highlight">Evaluation</span>: Evaluated using metrics like RMSE and MAPE.</li>
