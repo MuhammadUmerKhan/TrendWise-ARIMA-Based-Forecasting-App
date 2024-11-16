@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # 📉 ARIMA Time Series Forecasting 📉
 
 ## Description
@@ -30,3 +31,5 @@ This project demonstrates time series forecasting using ARIMA (AutoRegressive In
 ---
 
 This README file should serve as a comprehensive guide to your project, making it easy for viewers to understand the scope, progress, and future plans for your recommendation system. Let me know if you'd like further customizations!
+=======
+>>>>>>> Stashed changes
