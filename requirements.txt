@@ -163,3 +163,4 @@ websocket-client==1.8.0
 widgetsnbextension==4.0.13
 wrapt==1.16.0
 yarg==0.1.9
+statsmodel
