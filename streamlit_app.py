@@ -222,8 +222,8 @@ def ARIMA_model(original_series, search_for_params = False, stationary_series = 
 
 # Set the page configuration for a more appealing look
 st.set_page_config(
-    page_title="📉 ARIMA Time Series Forecasting",
-    # page_icon="📉",
+    page_title="ARIMA Time Series Forecasting",
+    page_icon="📉",
     # layout="wide",
     initial_sidebar_state="expanded"
 )
