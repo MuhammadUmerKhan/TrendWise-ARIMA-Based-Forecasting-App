@@ -1,4 +1,4 @@
-# 📉 ARIMA Time Series Forecasting 📉
+# 📉 TrendWise: ARIMA-Based Forecasting App 📉
 
 ## Description
 This project demonstrates time series forecasting using ARIMA (AutoRegressive Integrated Moving Average) models. The main objective is to visualize time series data, check stationarity with the Augmented Dickey-Fuller (ADF) test, decompose the series into trend, seasonal, and residual components, and build an ARIMA model to forecast future values.
